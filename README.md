@@ -8,7 +8,7 @@
 
 # Multi Office Summarizer
 An abstractive summarizer for office needs
-It is used to summarise meetings by converting speech to text. The text file is then sent to the summariser to generate a summary. We have also built an optical charcter recognition system so that we can extract text data from pdf and convert it to a txt file and this txt file will also be fed to the summarizer.
+Our groups idea was to use summarization methods for an office environment. It is used to summarise meetings by converting speech to text. The text file is then sent to the summariser to generate a summary. We have also built an optical charcter recognition system so that we can extract text data from pdf and convert it to a txt file and this txt file will also be fed to the summarizer.
 
 <img src="https://github.com/DipLern/HackJaipur/blob/master/workflow.jpeg">
 
