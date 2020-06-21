@@ -1,0 +1,94 @@
+™I resume.io
+
+Jayvardhan Rathi
+
+COMPUTER SCIENCE &
+
+ENGINEERING STUDENT
+
+aa ete
+103 Krishna Harmony, Indore,
+4527001, India
+
+rathi40é6@emailcom
+
+lela
+
+Links
+Linkedin
+Github
+
+Hackerrankk
+
+hye
+Cc
+C++
+
+titel
+
+MySQL
+HTML/CSS
+Algorithms
+Data Structures
+
+On) em eee ce aL asd
+
+Ta bedt tsb ee
+Hindi
+
+pale
+
+Hobbies
+Table Tennis
+
+Swimming
+
+ 
+
+Profile
+
+A developer aspiring to solve real-world challenges using technology. Equipped
+with a diverse and promising skill-set. Proficient in Data Structures and Algorithms.
+Experienced with the latest cutting edge development tools and procedures. Able to
+effectively self-manage during independent projects, as well as collaborate as part of a
+productive team. Committed to utilizing my skills to further the mission of a company.
+
+Education
+
+SRM Institute Of Science & Technology , Kattankulatur
+
+Btech in Computer Science and Engineering (CSE)
+
+GPA ( Semester 1) - 6.85
+
+Internships
+Data @ ANZ Internship Program
+
+JP Morgan Chase Software Engineering Virtual Experience
+
+Projects
+C++ Telephone Directory System
+
+Emulate a Telephone Directory System in which the user can View , Add , Search,
+Modify and Delete records. Built using the concepts of File Handling and Classes .
+
+https://github.com/ComputerScientist-01/Telephone_ Directory system
+
+Neural Network Cat Classifier
+
+Using a Deep Multi-Layered Neural Network from scratch and applied it to cat vs
+non-cat classification.
+
+ 
+
+Tile Matching Game
+
+Implemented an Animal tile Matching game using Python and Pygame .
+
+ 
+
+Portfolio website
+
+Made using HTML and CSS
+
+https://computerscientist-01. github.io/
