@@ -22,6 +22,7 @@ Running the Tesseract and other related libraies we ran into dependency issues a
 4. HTML
 5. CSS
 6. Python
+7. Flask
 
 # Youtube
 https://www.youtube.com/watch?v=qSe7xUWj7zQ&feature=youtu.be
