@@ -23,5 +23,8 @@ Running the Tesseract and other related libraies we ran into dependency issues a
 5. CSS
 6. Python
 
-# website
+# Youtube
+https://www.youtube.com/watch?v=qSe7xUWj7zQ&feature=youtu.be
+
+# Website
 https://diplern.github.io/Website/Index-1.html
