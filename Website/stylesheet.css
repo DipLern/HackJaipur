@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(6, 245, 233);
+}
+.container-main {
+    width: 450px;
+    height: 400px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 100px;
+    background-color: rgb(70, 6, 219);
+    border-radius: 20px 0px;
+}
+.container-side {
+    width: 50px;
+    height: 400px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-color: rgb(70, 6, 219);
+    border-radius: 20px 0px 0px 0px;
+}
+.container-side i {
+    font-size: 25px;
+    margin-top: 7px;
+    margin-left: 13px;
+}
+.title h1{
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+}
+.container-side p {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 25px;
+    padding-bottom: 30px;
+    color: yellow;
+    margin-left: 10px;
+}
+.input {
+    padding-left: 140px;
+    font-size: 20px;
+    color: rgb(39, 241, 32);
+    font-weight: bold;
+}
+.output {
+    padding-left: 140px;
+    font-size: 20px;
+    color: rgb(39, 241, 32);
+    font-weight: bold;
+}
+.gen {
+    padding-left: 20px;
+    font-size: 20px;
+    color: rgb(39, 241, 32);
+}
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    border-radius: 4px;
+    text-align: center;
+}
+.message {
+    padding: 8px 10px;
+    background-color: #44df36;
+    cursor: pointer;
+    box-shadow: 0 7px #25ac5b;
+}
+.message:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
+.space {
+    padding-left: 8px;
+    font-size: 18px;
+}
+.link {
+    text-decoration: none;
+    float: right;
+    margin-right: 20px;
+    font-size: 17px;
+}
+.title {
+    border-radius:20px;
+}
